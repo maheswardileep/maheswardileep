@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Maheswar 👋
 
-<!--
-**maheswardileep/maheswardileep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student in Michigan exploring the intersection of **AI and economics** — using computational tools to understand economic activity in ways traditional data can't.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🐍 Learning Python (CS50P)
+- 📊 Building foundations in data science and machine learning
+- 📸 Documenting immigrant communities through photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's coming
+- 🔭 Satellite imagery × economic prediction research
+- 🚦 Reinforcement learning for traffic optimization
+- 📈 Financial sentiment analysis tools
+
+## Connect
+- 📍 Northville, Michigan
