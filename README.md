@@ -1,4 +1,4 @@
-# Hey, I'm Maheswar 👋
+# Hey, I'm Maheswar (or Mahe for short)👋
 
 I'm a high school student in Michigan exploring the intersection of **AI and economics** — using computational tools to understand economic activity in ways traditional data can't.
 
