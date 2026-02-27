@@ -3,7 +3,7 @@
 I'm a high school student in Michigan exploring the intersection of **AI and economics** — using computational tools to understand economic activity in ways traditional data can't.
 
 ## What I'm working on
-- 🐍 Learning Python (CS50P)
+- 🐍 Learning Python
 - 📊 Building foundations in data science and machine learning
 - 📸 Documenting immigrant communities through photography
 
