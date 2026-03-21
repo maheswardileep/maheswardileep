@@ -1,16 +1,15 @@
-# Hey, I'm Maheswar (or Mahe for short)👋
+# Hi, I'm Mahe
 
-I'm a high school student in Michigan exploring the intersection of **AI and economics** — using computational tools to understand economic activity in ways traditional data can't.
+Freshman at Northville High School building AI tools that read 
+economic signals before the government does.
 
-## What I'm working on
-- 🐍 Learning Python
-- 📊 Building foundations in data science and machine learning
-- 📸 Documenting immigrant communities through photography
+Currently: proving that Google search behavior causally predicts 
+US retail sales weeks before official data releases.
 
 ## What's coming
-- 🔭 Satellite imagery × economic prediction research
-- 🚦 Reinforcement learning for traffic optimization
-- 📈 Financial sentiment analysis tools
+- Satellite imagery × economic prediction research
+- Reinforcement learning for traffic optimization
+- Financial sentiment analysis tools
 
 ## Connect
 - 📍 Northville, Michigan
