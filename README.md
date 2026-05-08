@@ -1,2 +1,4 @@
 hi im mahe
-i might build some stuff
+i go to northville high school
+im a freshman
+im a chudster
